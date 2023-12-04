@@ -1,0 +1,2 @@
+- руководство по стилю SQL  https://www.sqlstyle.guide/ru/ \
+-  https://codebeautify.org/sqlformatter
